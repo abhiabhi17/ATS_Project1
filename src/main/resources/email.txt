@@ -1,0 +1,15 @@
+
+ Hi <b>{FIRST_NAME} {LAST_NAME}</b>,<br>
+
+ Thank you for creating account in ATS.Your registration is almost<br>
+ completed. To use your account in ATS,You need to unlock your account<br>
+ using below details.<br><br>
+ 
+ Temporary Password : {TEMP_PWD}<br><br>
+ 
+ <a href="http://localhost:9090/ats/unlockScreen?email={EMAIL}">
+ <font size="4">CLick Here To Un-Lock</font>
+ </a><br><br>
+ Thanks,<br>
+ ATS Team.
+    
